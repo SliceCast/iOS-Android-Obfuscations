@@ -1,5 +1,5 @@
 # Android-Obfuscations
-An Android obfuscation for lib.so files and dex files.
+An Android-iOS obfuscation for lib.so files, dylib, and dex files.
 
 # XMProtect
 http://www.xmprotect.com/
