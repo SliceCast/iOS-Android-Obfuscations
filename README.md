@@ -10,24 +10,24 @@ To know if it's obfuscated, check your lib in IDA Pro and compare your old one.
 
 XMProtect Provides
 
-# File modification prevention
+File modification prevention
 Encrypt code and data, prevent file modification and
 secondary packaging.
 
-# Anti-debugger
+Anti-debugger
 Multiple anti-debugging schemes, anti-dynamic debugging,
 
-# Logical confusion
+Logical confusion
 Logic instructions are split out of order, which confuses the call flow.
 
-# Symbol confusion
+Symbol confusion
 String, function symbol encryption processing
 and dynamic decryption at runtime
 
-# Virtualization protection
+Virtualization protection
 Original VM engine, core function virtualization protection
 
-# Anti-API hook
+Anti-API hook
 Anti-code injection, anti-HOOK attack
 
 
